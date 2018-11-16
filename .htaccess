@@ -1,0 +1,5 @@
+# Disallow directory listings
+Options -Indexes
+
+# Disable server signature
+ServerSignature Off

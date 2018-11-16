@@ -1,0 +1,35 @@
+* { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+html { overflow-y: scroll;  padding: 0; margin: 0; }
+
+
+/* Base Styles  ========================================================================== */
+body { font-size: 11pt; line-height: 1.6;  font-weight: 400; font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #222; padding: 10px 5px 10px 5px; margin: 0;}
+
+
+/* Typography  ========================================================================== */
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: 10px;  font-weight: bold; }
+h1 { font-size: 2.5rem; line-height: 1; letter-spacing: -.1rem; color: #555555 ; }
+h2 { font-size: 2.0rem; line-height: 1; letter-spacing: -.1rem; color: #555555 ; }
+h3 { font-size: 1.5rem; line-height: 1; letter-spacing: -.1rem; color: #555555 ; }
+h4 { font-size: 1.4rem; line-height: 1; letter-spacing: -.08rem; color: #555555 ; }
+h5 { font-size: 1.3rem; line-height: 1; letter-spacing: -.05rem; color: #555555 ; }
+h6 { font-size: 1.2rem; line-height: 1; letter-spacing: 0; }
+
+p {  padding: 0;margin: 0; }
+
+/* Links ========================================================================== */
+a { color: #1EAEDB; }
+a:hover { color: #0FA0CE; }
+
+/* Lists ========================================================================== */
+ul { list-style: circle inside; }
+ol { list-style: decimal inside; }
+ol, ul {  padding-left: 0; margin-top: 0; }
+ul ul,
+ul ol,
+ol ol,
+ol ul { margin: 1.5rem 0 1.5rem 3rem; font-size: 90%; }
+li {  margin-bottom: 1rem; }
+
+/* Divers ========================================================================== */
+.col img { width: 100%; height: auto; padding-bottom: 9px; }

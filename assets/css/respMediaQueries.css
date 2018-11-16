@@ -1,0 +1,23 @@
+/* max-width  480 ========================================================================== */
+@media only screen and (max-width: 480px) {
+	.col { color: Black ; padding:0 8px 0 8px; ; margin:0; 	}
+    h1 { font-size: 1.8rem; line-height: 1; letter-spacing: -.1rem; color: #555555 ; padding: 10px 0 10px 0; margin: 0; }
+    h2 { font-size: 1.6rem; line-height: 1; letter-spacing: -.1rem; color: #555555 ; padding: 10px 0 10px 0; margin: 0; }  
+    p { font-size: 10pt; }  
+}
+
+/* min-width 480   <->  max-width: 768 ========================================================================== */
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+	.col { color: Black ; }
+}
+
+/* min-width 768   <->  max-width: 1024 ========================================================================== */
+@media only screen and (min-width: 768px) and (max-width: 1024px) { 
+	.col { color: Black ;	}
+}
+
+/* min-width  1025 ========================================================================== */
+@media only screen and (min-width: 1025px) {
+	.col { color: Black ; }	
+}
+
