@@ -1,6 +1,6 @@
 # Responsive Framework HTML5 version
 
-The base of your next responsive website / CMS.
+The base of your next responsive website.
 
 ## Getting Started
 
