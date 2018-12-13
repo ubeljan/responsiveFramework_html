@@ -1,3 +1,4 @@
+![Responsive Framework HTML5](https://www.responsiveframework.nl/afbeeldingen/logo/responsive_framework_html5.github.png)
 # Responsive Framework HTML5 version
 
 The base of your next responsive website.
